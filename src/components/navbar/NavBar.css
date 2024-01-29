@@ -1,0 +1,10 @@
+.navbar-nav li{
+    margin-right: 2rem;
+    transition: 0.3s ease-in-out;
+} 
+
+.navbar-nav li:hover{
+    background-color: #198754;
+    border-radius: 0.7rem;
+    
+}
